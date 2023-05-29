@@ -1,0 +1,1 @@
+export const BASIC_ETH_NAME = "chokotest.eth"
